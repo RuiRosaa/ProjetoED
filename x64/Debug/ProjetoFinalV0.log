@@ -1,0 +1,12 @@
+﻿  Cliente.c
+C:\Users\rosaa\Desktop\ProjetoFinalV0.3\ProjetoFinalV0\Cliente.c(7,1): warning C4133: 'inicializando': tipos incompatíveis - de 'char *' para 'CLI *'
+C:\Users\rosaa\Desktop\ProjetoFinalV0.3\ProjetoFinalV0\Cliente.c(24,11): warning C4013: 'printf' indefinido; assumindo extern retornando int
+  Funcionario.c
+C:\Users\rosaa\Desktop\ProjetoFinalV0.3\ProjetoFinalV0\Funcionario.c(7,1): warning C4133: 'inicializando': tipos incompatíveis - de 'char *' para 'FUNC *'
+  main.c
+C:\Users\rosaa\Desktop\ProjetoFinalV0.3\ProjetoFinalV0\main.c(28,15): warning C4013: 'LerFicheiro' indefinido; assumindo extern retornando int
+  Produtos.c
+C:\Users\rosaa\Desktop\ProjetoFinalV0.3\ProjetoFinalV0\Produtos.c(7,1): warning C4133: 'inicializando': tipos incompatíveis - de 'char *' para 'PROD *'
+  Supermecado.c
+  Gerando Código...
+  ProjetoFinalV0.vcxproj -> C:\Users\rosaa\Desktop\ProjetoFinalV0.3\ProjetoFinalV0\x64\Debug\ProjetoFinalV0.exe
